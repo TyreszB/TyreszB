@@ -50,10 +50,22 @@
 
 ###
 
+<br clear="both">
 <h1 align="center">  ||  LEARNING 🧠  ||  </h1>
-<div>
+<br clear="both">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="100" alt="react logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" height="100" alt="gatsby logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="100" alt="nodejs logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="100" alt="tailwindcss logo"  />
   <img width="20" />
 </div>
 
 ###
+
+
+
+
