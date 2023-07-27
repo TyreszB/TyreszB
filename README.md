@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <br clear="both">
 
 <h1 align="center">🙋🏽‍♂️   ||   My name is Tyresz and I'm a Full Stack Web Developer!   ||   💻</h1>
@@ -7,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://live.staticflickr.com/65535/53073978036_aca0b53305.jpg" width="500" height="500" alt="gg512px"/></a><script async src="//embedr.flickr.com/assets/client-code.js"  />
+  <img height="200" src="https://live.staticflickr.com/65535/53073978036_aca0b53305.jpg" width="500" height="500" alt="gg512px"/>"  />
 </div>
 
 ###
