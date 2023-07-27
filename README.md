@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://live.staticflickr.com/65535/53073978036_aca0b53305.jpg" width="500" height="500" alt="gg512px"/>"  />
+  <img height="200" src="https://live.staticflickr.com/65535/53073978036_aca0b53305.jpg" width="300" height="300" alt="gg512px"/>"  />
 </div>
 
 ###
@@ -14,8 +14,8 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=tyreszb&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&date_format=j/n[/Y]" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tyreszb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=tokyonight&hide_border=true&custom_title=Look at my Languages! 🧑‍💻" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=tyreszb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&custom_title=Check my Stats!  💪" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tyreszb&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=tyreszb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
 </div>
 
 ###
