@@ -4,12 +4,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://live.staticflickr.com/65535/53073978036_aca0b53305.jpg" width="250" height="350" alt="gg512px"/>
-</div>
-
-###
-
 <br clear="both">
 
 <div align="center">
