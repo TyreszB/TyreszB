@@ -55,7 +55,7 @@
 <br clear="both">
 <div align="center">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-plain.svg" height="100" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/next/next-plain.svg" height="100" alt="nextjs logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="100" alt="threejs logo"  />
   <img width="20" />
