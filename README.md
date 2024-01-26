@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">🙋🏽‍♂️   ||   My name is Tyresz and I'm a Full Stack Web Developer!   ||   💻</h1>
+<h1 align="center">🙋🏽‍♂️   ||   My name is Tyresz, I'm a Software Developer!   ||   💻</h1>
 
 ###
 
